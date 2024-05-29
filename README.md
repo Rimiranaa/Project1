@@ -33,7 +33,7 @@
 Рисунок 1. Главная страница с отображением таблицы Менделеева
 </br> </br> </br></br>
 ![окно добавления темы](https://github.com/Rimiranaa/Project1/blob/main/Screenshot/2.png)</br>
-Рисунок 2. Окно добавления темы 
+Рисунок 2. Окно добавления темы. 
 </br> </br> </br></br>
 
 ![Главная страница](https://github.com/Rimiranaa/Project1/blob/main/Screenshot/3.png)
