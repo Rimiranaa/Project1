@@ -32,15 +32,19 @@
 ![Главная страница](https://github.com/Rimiranaa/Project1/blob/main/Screenshot/1.png)
 ## Главная страница с отображением таблицы Менделеева
 </br> </br> </br>
-![окно добавления темы](https://github.com/Fealerok/MetallurgicalPlant/blob/main/ScreensForRepository/2_ListOfWorkers.png)
+![окно добавления темы](https://github.com/Rimiranaa/Project1/blob/main/Screenshot/2.png)
 ## окно добавления темы </br>
 </br> </br> </br>
 
-![Главная страница](https://github.com/Fealerok/MetallurgicalPlant/blob/main/ScreensForRepository/3_AddingWorker.png)
+![Главная страница](https://github.com/Rimiranaa/Project1/blob/main/Screenshot/3.png)
 ## отображение добавленных тем. </br>
 </br> </br> </br>
 
-![Окно просмотра элементов](https://github.com/Fealerok/MetallurgicalPlant/blob/main/ScreensForRepository/4_ListOfWarehouses.png)
+![Окно просмотра элементов](https://github.com/Rimiranaa/Project1/blob/main/Screenshot/4.png)
 ## страница поиска нужного элемента в таблице. </br>
 </br> </br> </br>
+
+![Окно просмотра элементов](https://github.com/Rimiranaa/Project1/blob/main/Screenshot/5.png)
+## визуализация работы страницы поиска.. </br>
+</br>
 
